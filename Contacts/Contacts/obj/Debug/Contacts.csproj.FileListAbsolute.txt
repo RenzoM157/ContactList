@@ -1,0 +1,15 @@
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\ContactDB.mdf
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\ContactDB_log.ldf
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.exe.manifest
+C:\Users\renzo\Documents\C# Programs\Contacts\Contacts\obj\Debug\Contacts.application
